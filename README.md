@@ -19,7 +19,6 @@ The SUT is a (not that much) simple coffee machine. You start it, you ask for a 
 Update tests
 -------------
 
-
 To update the tests:
 
     hiptest-publisher -c junit.conf --only=tests
